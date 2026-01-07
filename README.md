@@ -9,7 +9,7 @@ Currently based in the Netherlands.
 
 - Building machine learning projects with a focus on business use cases
 - Learning Python and SQL to analyze, model, and automate data workflows
-- Exploring data roles such as data engineer, data analyst, and data scientist
+- Learning math fundamentals & visualization 
 
 ---
 
@@ -31,7 +31,7 @@ Currently based in the Netherlands.
 ## 📂 Featured Projects
 
 ### [Network Intrusion Detection System](https://github.com/SameliaJ/data-science-tools-and-techniques)
-Built a machine learning-based network security system using Random Forest classifier on the NSL-KDD dataset. Deployed as a FastAPI web service with a web UI, automated tests, and CSV batch evaluation capabilities. This project demonstrates practical ML deployment and security application.
+Built a machine learning-based network security system using a Random Forest classifier on the NSL-KDD dataset. Deployed as a FastAPI web service with a web UI, automated tests, and CSV batch evaluation capabilities. This project demonstrates a practical ML deployment and a security application.
 
 **Tech:** Python · Machine Learning · FastAPI · Network Security
 
@@ -42,6 +42,7 @@ Built a machine learning-based network security system using Random Forest class
 - Break into the tech & data field at the intersection of business and analytics
 - Work on real-world data projects that create value for businesses
 - Collaborate on projects that challenge me to learn new tools, concepts, or technologies
+- Currently targeting data analyst roles, with interest in growing toward data science and engineering
 
 ---
 
