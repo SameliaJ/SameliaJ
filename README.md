@@ -31,7 +31,7 @@ Currently based in the Netherlands.
 ## 📂 Featured Projects
 
 ### [Network Intrusion Detection System](https://github.com/SameliaJ/data-science-tools-and-techniques)
-Built a machine learning-based network security system using Random Forest classifier on the NSL-KDD dataset [attached_file:1]. Deployed as a FastAPI web service with a web UI, automated tests, and CSV batch evaluation capabilities [attached_file:1]. This project demonstrates practical ML deployment and security application [attached_file:1].
+Built a machine learning-based network security system using Random Forest classifier on the NSL-KDD dataset. Deployed as a FastAPI web service with a web UI, automated tests, and CSV batch evaluation capabilities. This project demonstrates practical ML deployment and security application.
 
 **Tech:** Python · Machine Learning · FastAPI · Network Security
 
