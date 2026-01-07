@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Sam Joziasse 👋
 
-<!--
-**SameliaJ/SameliaJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business administration student transitioning into the **data** field, with a strong interest in using data and machine learning to solve real business problems.  
+Currently based in the Netherlands.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm working on
+
+- Building machine learning projects with a focus on business use cases
+- Learning Python and SQL to analyze, model, and automate data workflows
+- Exploring data roles such as data engineer, data analyst, and data scientist
+
+---
+
+## 🧠 Skills & What I'm Learning
+
+**Languages & Data**
+- Python (data analysis, machine learning)
+- SQL (data querying and analysis)
+
+**Topics & Tools I'm exploring**
+- Machine learning for business applications
+- Cloud technologies (AWS, Azure, GCP fundamentals)
+- Docker & Kubernetes
+- Working with APIs
+- Using AI tools like Perplexity Pro to speed up learning and problem-solving
+
+---
+
+## 📂 Featured Projects
+
+### [Network Intrusion Detection System](https://github.com/SameliaJ/data-science-tools-and-techniques)
+Built a machine learning-based network security system using Random Forest classifier on the NSL-KDD dataset [attached_file:1]. Deployed as a FastAPI web service with a web UI, automated tests, and CSV batch evaluation capabilities [attached_file:1]. This project demonstrates practical ML deployment and security application [attached_file:1].
+
+**Tech:** Python · Machine Learning · FastAPI · Network Security
+
+---
+
+## 🎯 Goals
+
+- Break into the tech & data field at the intersection of business and analytics
+- Work on real-world data projects that create value for businesses
+- Collaborate on projects that challenge me to learn new tools, concepts, or technologies
+
+---
+
+## 🤝 Open to collaboration
+
+- Machine learning projects with a business or product focus
+- Data analytics projects that turn raw data into insights
+- Network security and intrusion detection systems
+- Any opportunity that helps bridge business understanding with technical data skills
+
+If you have an idea or project that fits, feel free to reach out!
+
+---
+
+## 💬 Languages
+
+- Dutch (Native)
+- English (Fluent)
+
+---
+
+## 📫 How to reach me
+
+LinkedIn: [www.linkedin.com/in/sam-joziasse-5a05602b8](https://www.linkedin.com/in/sam-joziasse-5a05602b8)
+
