@@ -20,6 +20,7 @@ Currently based in the Netherlands.
 - SQL (data querying and analysis)
 
 **Topics & Tools I'm exploring**
+
 - Machine learning for business applications
 - Cloud technologies (AWS, Azure, GCP fundamentals)
 - Docker & Kubernetes
