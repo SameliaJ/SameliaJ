@@ -9,7 +9,7 @@ Currently based in the Netherlands.
 
 - Building machine learning projects with a focus on business use cases
 - Learning Python and SQL to analyze, model, and automate data workflows
-- Learning math fundamentals & visualization 
+- Learning math fundamentals & visualization
 
 ---
 
@@ -26,6 +26,7 @@ Currently based in the Netherlands.
 - Docker & Kubernetes
 - Working with APIs
 - Using AI tools like Perplexity Pro to speed up learning and problem-solving
+- Typescript and other coding languages 
 
 ---
 
