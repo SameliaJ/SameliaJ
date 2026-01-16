@@ -37,6 +37,8 @@ Built a machine learning-based network security system using a Random Forest cla
 
 **Tech:** Python · Machine Learning · FastAPI · Network Security
 
+Comming soon Amonia project!
+
 ---
 
 ## 🎯 Goals
