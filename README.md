@@ -1,7 +1,7 @@
 # Hi, I'm Sam Joziasse 👋
 
 Business administration student transitioning into the **data** field, with a strong interest in using data and machine learning to solve real business problems.  
-Currently based in the Netherlands.
+I have completed my minor Data Driven decision making in business and am currently based in the Netherlands.
 
 ---
 
