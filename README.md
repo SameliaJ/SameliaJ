@@ -43,7 +43,14 @@ This project develops a Random Forest regression model to predict ammonia (NH₃
 
 **Tech:** Python · Machine Learning · 
 
-Also, coming data visualisation soon!
+## 📊 Featured Project: Bean There Done That
+
+**Storytelling with Data**
+
+Analyzed operational efficiency for a coffee roasting company, uncovering **74% untapped growth potential** through data-driven insights. Developed 5 custom KPIs revealing that coordination—not capacity—was the key constraint to scaling.
+
+[View Project →](https://github.com/SameliaJ/storytelling-with-data)
+
 
 ---
 
