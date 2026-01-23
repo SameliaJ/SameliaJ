@@ -37,7 +37,7 @@ Built a machine learning-based network security system using a Random Forest cla
 
 **Tech:** Python · Machine Learning · FastAPI · Network Security
 
-### [Machine learning Amonia prediction project: A multi-farm prediction model](https://github.com/SameliaJ/impact-solutions)
+### [Machine learning Amonia prediction project: A multi-farm prediction model](https://github.com/SameliaJ/Project-impact-solutions)
 Built a proof of concept with a team of students to build an advisory tool for the Dutch farmers. 
 This project develops a Random Forest regression model to predict ammonia (NH₃) emissions from dairy farms based on management practices and farm characteristics. Using historical data from (2010-2024), the model identifies key emission drivers including nitrogen efficiency, protein in feed, and herd size, achieving strong predictive performance. 
 
