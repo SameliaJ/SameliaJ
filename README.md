@@ -43,7 +43,7 @@ This project develops a Random Forest regression model to predict ammonia (NH₃
 
 **Tech:** Python · Machine Learning · 
 
-### 📊 [Featured Project: Bean There Done That](https://github.com/SameliaJ/storytelling-with-data)
+### Bean There Done That](https://github.com/SameliaJ/storytelling-with-data)
 
 **Storytelling with Data**
 
