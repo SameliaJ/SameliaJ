@@ -10,6 +10,7 @@ I have completed my minor Data Driven decision making in business and am current
 - Building machine learning projects with a focus on business use cases
 - Learning Python and SQL to analyze, model, and automate data workflows
 - Learning math fundamentals & visualization
+- Internship @Cegeka, working on AI agents and Microsoft Dynamics
 
 ---
 
