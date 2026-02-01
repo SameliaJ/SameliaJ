@@ -20,6 +20,7 @@ Currently an intern at Cegeka, where I'm working with AI agents and Microsoft Dy
 **Languages & Data**
 - Python (data analysis, machine learning)
 - SQL (data querying and analysis)
+- Power BI (DAX)
 
 **Topics & Tools I'm exploring**
 
